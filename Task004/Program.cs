@@ -1,12 +1,13 @@
-﻿ int a = 10;
- int b = 19;
- int c = 12;
- 
- int max = a;
-
- if (a > max ) max = a;
- if (b > max ) max = b;
- if (c > max ) max = c;
-
- Console.Write("max = ");
- Console.WriteLine(max);
+﻿﻿Console.WriteLine("Введите 3 числа,");
+Console.WriteLine("чтобы узнать какое наибольшее");
+Console.Write("Введите первое число: ");
+int number1 = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число: ");
+int number2 = int.Parse(Console.ReadLine());
+Console.Write("Введите третье число: ");
+int number3 = int.Parse(Console.ReadLine());
+int max = number1;
+ if (number1 > max ) max = number1;
+ if (number2 > max ) max = number2;
+ if (number3 > max ) max = number3;
+ Console.WriteLine("Число " + max + " наибольшее");
