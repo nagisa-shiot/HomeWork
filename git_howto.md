@@ -29,3 +29,8 @@ git log --oneline
 ```sh
 git checkout
 ```
+
+Показание разницы между изменениями файла
+```sh
+git diff
+```
