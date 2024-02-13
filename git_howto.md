@@ -14,6 +14,10 @@ git add
 ```sh
 git commit -m "Message"
 ```
+
+Отслеживание Изменений
+```sg
 git log
+```
 git log --oneline
 git checkout
