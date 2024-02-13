@@ -24,4 +24,8 @@ git log
 ```sh
 git log --oneline
 ```
+
+Переход между изменениями
+```sh
 git checkout
+```
