@@ -19,5 +19,9 @@ git commit -m "Message"
 ```sg
 git log
 ```
+
+Краткий список изменений
+```sh
 git log --oneline
+```
 git checkout
