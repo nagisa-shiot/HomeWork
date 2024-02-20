@@ -34,3 +34,8 @@ git checkout
 ```sh
 git diff
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
