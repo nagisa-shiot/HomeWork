@@ -34,7 +34,13 @@ git checkout
 ```sh
 git diff
 ```
-Пемещение по веткам
+
+Отображение всех веток
 ```sh
-git checkout <branch_name>
+git branch
+```
+
+Перемещение по веткам
+```sh
+git checkout <имя_ветки>
 ```
