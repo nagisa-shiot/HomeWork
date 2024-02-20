@@ -12,7 +12,7 @@ git add
 
 Коментарий к добавленному-измененному файлу
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 Отслеживание Изменений
