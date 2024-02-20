@@ -54,3 +54,8 @@ git branch <имя_ветки>
 ```sh
 git log -oneline --graph
 ```
+
+Удаление не нужной ветки
+```sh
+git branch -d <branch_name>
+```
