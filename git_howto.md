@@ -34,3 +34,7 @@ git checkout
 ```sh
 git diff
 ```
+Пемещение по веткам
+```sh
+git checkout <branch_name>
+```
